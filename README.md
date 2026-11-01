@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38fcf410-3211-43dd-bf1c-9b7f2c51a994" alt="bawertL Logo" width="250">
+  <img src="https://raw.githubusercontent.com/bawertl/Diablo-III-PS5-CheatRunner-CUSA00433/main/BawertL%20im%20dynamischen%20Pinselstil.png" alt="BawertL Logo" width="380">
 </p>
 
 ---
