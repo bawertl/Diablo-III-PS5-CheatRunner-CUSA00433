@@ -1,65 +1,40 @@
-# Diablo III Ultimate Evil Edition – CheatRunner Cheats (PS4 CUSA00433 v01.46)
 
-A collection of **12 independently selectable cheat toggles** for **Diablo III: Reaper of Souls – Ultimate Evil Edition** (`CUSA00433`, game version `01.46`), used with **CheatRunner v0.18** on a jailbroken PS5.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38fcf410-3211-43dd-bf1c-9b7f2c51a994" alt="bawertL Logo" width="250">
+</p>
 
-**This project is separate from BGH – BawertL's Game Hub.** It contains a CheatRunner JSON configuration, not the game or a game executable.
+---
 
-## Compatibility
+## 💙 A Personal Message from the Developer
 
-| Item | Tested setup |
-|---|---|
-| Game | Diablo III: Reaper of Souls – Ultimate Evil Edition |
-| PS4 Title ID | `CUSA00433` |
-| Game version | `01.46` |
-| Cheat loader | CheatRunner v0.18 |
-| Console | Jailbroken PS5, firmware 13.60 |
-| Target process | `eboot.bin` |
+When I started playing Diablo III: Ultimate Evil Edition on my jailbroken PS5, I noticed something frustrating: finding working CheatRunner cheats for **CUSA00433 – game version 01.46** was surprisingly difficult.
 
-**Other title IDs and game updates, including v01.47, have not been verified.** Cheats use game-version-specific offsets; do not apply them to another version without independent validation.
+Most of the cheat configurations I came across were designed for other versions, such as **01.40 or 01.47**, while the version I was using was **01.46**.
 
-## Included toggles
+Instead of giving up, I decided to take matters into my own hands.
 
-| # | Cheat | Test notes |
-|---|---|---|
-| 1 | God Mode / Infinite Health | Confirmed in game |
-| 2 | Infinite combat resources (mana etc.) | Confirmed with Wizard |
-| 3 | No Cooldown V2 | Confirmed with Barbarian Ground Stomp; not verified for every class/skill |
-| 4 | Loot Sanft | Natural drops; configured 10% Primal / 10% Ancient for eligible loot |
-| 5 | Loot Abenteuer | Natural drops; configured 30% Primal / 10% Ancient |
-| 6 | Loot Uralt Plus | Natural drops; configured 10% Primal / 20% Ancient |
-| 7 | Max Loot Mix | Modified Legendary/Set loot; configured approximately 1/3 Primal |
-| 8 | Max Loot Primal | Modified Legendary/Set loot; intended all eligible Primal |
-| 9 | Attack Speed 5.0 APS | Character stats displayed 5.00 APS; attack animation speed not separately measured |
-| 10 | Critical Hit 100% Chance + 100% Damage | Both character-stat values confirmed |
-| 11 | Magic Find 300% | Character-stat value confirmed; drop-rate impact not separately measured |
-| 12 | Movement Speed +50% | Subjective movement changes; normal running may be limited by game caps |
+I spent time analyzing the game, developing my own cheat codes, experimenting with different modifications and testing them directly on my PS5.
 
-**Loot percentages describe the programmed cheat settings, not statistically verified long-run drop rates.** The five loot modes are **mutually exclusive**: enable only one at a time. Some effects may be class-, skill-, or situation-dependent.
+The result is this collection of **12 individually selectable cheats**, including five different loot modes.
 
-## Installation
+And now I want to share them with the community — **completely free!** 🎮
 
-1. Install and configure **CheatRunner** for your PS5 homebrew environment.
-2. Copy `CUSA00433_01.46.json` to:
+### 💡 Have an Idea for Another Cheat?
 
-   ```text
-   /data/cheatrunner/cheats/json/CUSA00433_01.46.json
-   ```
+If there's a feature, modification or cheat you'd like to see in Diablo III, feel free to open a **GitHub Issue** and tell me about it!
 
-3. Start the matching **CUSA00433 v01.46** game build.
-4. Open CheatRunner and enable only the cheats you want.
-5. **Use at most one loot mode at a time.**
+I'm always interested in new ideas. I can't promise that every request will be technically possible, but I'll gladly take a look and see if I can figure it out.
 
-Keep a backup of the original JSON if you already have one at this path. Disable cheats if they cause instability or unexpected behavior.
+### ☕ Support My Work
 
-## Project scope and credits
+Everything here is available for free, and I intend to keep it that way.
 
-- **Cheat configuration and testing:** bawertL
-- **Game:** Diablo III by Blizzard Entertainment; all game rights belong to their respective owners.
-- **CheatRunner:** Separate third-party homebrew software; not included.
-- **BGH – BawertL's Game Hub:** https://github.com/bawertl/BGH-Universal-PS5-Game-Hub
+If these cheats have helped you enjoy Diablo III a little more, and you'd like to support the time and effort behind this project, you're welcome to buy me a coffee.
 
-No commercial game files, decrypted executable, or proprietary game content are distributed in this repository.
+**💙 [Buy bawertL a Coffee on Ko-fi](https://ko-fi.com/bawertl)**
 
-## Disclaimer
+Donations are entirely voluntary. Even a simple thank-you, a GitHub Star or some feedback means a lot to me.
 
-Community-made, version-specific game modifications. Provided as-is; compatibility and stability cannot be guaranteed. This is not an official Blizzard or CheatRunner project.
+**Thank you for your support, and have fun in Sanctuary!**
+
+*Made with passion by bawertL 💙*
